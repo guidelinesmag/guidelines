@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>guidelines</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <style>
+    @font-face { font-family: Garamond; src: url('fonts/EBGaramond-Regular.ttf'); } 
+    @font-face { font-family: Garamond; font-weight: bold; src: url('fonts/EBGaramond-Bold.ttf'); }
+    @font-face { font-family: Garamond1; font-weight: italic; src: url('fonts/EBGaramond-Italic.ttf'); }
+    h1 {font-family: Garamond}
+    body {font-family: Garamond}
+    </style>
+  </head>
+  <body  style="font-family:'Garamond'; padding-inline:max(1rem, calc((100% - 90ch) / 2));">
+  <br><br><br>
+  <h1><a href="https://mylittlehouseontheinternet.neocities.org/guidelines" style="color: black; text-decoration:none;">guidelines: about</a></h1>
+  <br>
+  <p><b>Godelieve de Bree</b> is published by <em>Los Angleles Review of Books</em>, <em>The Poetry Review</em> and Tate. She is the pamphlet editor for <em>guidelines</em>.</p>
+  <p><b>Olive Franklin</b> appears in <em>The Poetry Review</em>, <em>Poetry</em> and <em>Granta</em>. She is the magazine editor for <em>guidelines</em>.</p>
+  <p><b><em>guidelines</em></b> is a publishing project putting out themed online issues of nine poems and one interview. Our print pamphlet series will open for submissions in early 2026.</p>
+  <br>
+  <p>contact: <a href="mailto:guidelinepress@gmail.com">guidelinespress@gmail.com</a></p>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <footer style="padding=40px; text-align:right">
+  <p><a href="https://mylittlehouseontheinternet.neocities.org/about">about</a></p>
+  </footer>
+  </body>
+</html>
